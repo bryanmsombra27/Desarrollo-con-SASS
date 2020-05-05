@@ -1,0 +1,18 @@
+html {
+  box-sizing: border-box;
+  font-size: 62.5%;
+  font-family: sans-serif; }
+
+*,
+*:after,
+*:before {
+  box-sizing: inherit;
+  margin: 0;
+  padding: 0; }
+
+h1 {
+  color: rgba(102, 233, 15, 0.788);
+  font-size: 3rem;
+  background: #000;
+  text-align: center;
+  padding: 1rem; }
